@@ -31,7 +31,7 @@ Using chat widget helps to maintain the good communication with customer. The fe
 
 [Live Agent](https://www.liveagent.com)
 
-#### Note: since our project is a backend powered, we should few add things:
+#### Note: since our project is a backend powered, we should add few things:
 
 1) Customer Review / Testimonial
 
