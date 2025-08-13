@@ -81,25 +81,25 @@ Using chat widget helps to maintain the good communication with customer. The fe
 
   5) Admin Manager:
 
-    Sign In
+        Sign In
 
-    Sign Up
+        Sign Up
 
-    Sign Out
+        Sign Out
 
-    #### Account Details:
+#### Account Details:
        
-         username
+        username
 
-         Admin CRUD
+        Admin CRUD
 
-         Wallet Info
+        Wallet Info
 
-    Purchased Property (read, update, delete)
+Purchased Property (read, update, delete)
 
-    Liked Property (read, update, delete) 
+Liked Property (read, update, delete) 
 
-    #### Property Status (all with CRUD property):
+#### Property Status (all with CRUD property):
 
          Purchase status
 
@@ -109,7 +109,7 @@ Using chat widget helps to maintain the good communication with customer. The fe
 
          Cancel
 
-   #### Rented Property Status (all with CRUD property):
+#### Rented Property Status (all with CRUD property):
 
          Rental status
 
