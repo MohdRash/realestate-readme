@@ -79,4 +79,44 @@ Using chat widget helps to maintain the good communication with customer. The fe
 
          Cancel
 
+   5) Admin Managers like:
+
+    Sign In
+
+    Sign Up
+
+    Sign Out
+
+    #### Account Details:
+       
+         username
+
+         Admin CRUD
+
+         Wallet Info
+
+    Purchased Property (read, update, delete)
+
+    Liked Property (read, update, delete) 
+
+    #### Property Status (all with CRUD property):
+
+         Purchase status
+
+         Shipment
+
+         Delivery
+
+         Cancel
+
+   #### Rented Property Status (all with CRUD property):
+
+         Rental status
+
+         Shipment
+
+         Delivery
+
+         Cancel
+
 
