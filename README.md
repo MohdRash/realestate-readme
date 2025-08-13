@@ -79,7 +79,7 @@ Using chat widget helps to maintain the good communication with customer. The fe
 
          Cancel
 
-   5) Admin Managers like:
+  5) Admin Manager:
 
     Sign In
 
